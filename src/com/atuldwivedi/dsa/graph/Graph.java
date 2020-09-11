@@ -1,9 +1,5 @@
 package com.atuldwivedi.dsa.graph;
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
 public class Graph {
     int V, E;
     Edge[] edges;
