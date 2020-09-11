@@ -14,7 +14,9 @@ class JobSequencingProblem {
         jobs.add(new Job('e', 3, 15));
 
         System.out.println("Input: " + jobs);
+
         Collections.sort(jobs);
+        
         System.out.println("Sorted Input: " + jobs);
 
         int t = 3;
