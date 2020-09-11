@@ -1,3 +1,5 @@
+package com.atuldwivedi.dsa.greedy;
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
