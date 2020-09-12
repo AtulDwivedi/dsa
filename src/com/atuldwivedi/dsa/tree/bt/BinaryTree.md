@@ -16,10 +16,10 @@ graph TD
 2 -- right child --> 5
 3 -- left child --> 6
 3 -- right child --> 7
-4 --> 4c((Null))
-5 --> 5c((Null))
-6 --> 6c((Null))
-7 --> 7c((Null))
+4 --> 4Null((Null))
+5 --> 5Null((Null))
+6 --> 6Null((Null))
+7 --> 7Null((Null))
 ```
 ## DFS
 ### In Order Traversal [Left, Root, Right]
